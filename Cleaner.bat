@@ -49,7 +49,7 @@ echo 6) Resets your internal IP address
 echo.
 
 echo.
-echo ** Cleaner has finish press any key to exit. **
+echo Cleaner has finished press space bar to exit.
 echo.
 
 echo ***********************  **********************
