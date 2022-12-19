@@ -1,10 +1,10 @@
-REM Keith Griffiths 2017, Cleaner v1
+REM Keith Griffiths 2022, Cleaner v1
 
 label=Keith Griffiths
 
 color 02
 title Cleaner
-SET T1= Done By Cleaner
+SET T1= Completed By Cleaner
 
 cls 
 
@@ -58,7 +58,7 @@ echo ******************           ******************
 echo ***************     Cleaner     ***************
 echo ************        Has            ************
 echo **********          Finished         **********
-echo ************        2018           ************
+echo ************        2022           ************
 echo **************                   **************
 echo *****************             *****************
 echo *******************         *******************
